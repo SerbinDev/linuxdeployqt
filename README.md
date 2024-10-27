@@ -1,7 +1,6 @@
 ## linuxdeployqt is used to generate an output for the application you created with the Qt framework, providing you with an AppImage to run your program independently on all Linux operating systems.
 
-The linuxdeployqt tool is developed by the KDE team. You can find it at https://github.com/probonopd/linuxdeployqt.git. 
-Here, zz6 is independently developing this tool.
+The linuxdeployqt tool is developed by the KDE team. You can find it at https://github.com/probonopd/linuxdeployqt.git. Here, zz6 is independently developing this tool. In this version, linuxdeployqt is developed to be compatible with glibc up to version 2.40.
 
 ![zz6](https://github.com/user-attachments/assets/e43525da-ede1-4c2f-9a19-1c04c39eb738)
 
